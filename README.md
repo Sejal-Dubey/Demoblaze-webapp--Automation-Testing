@@ -3,7 +3,7 @@
 
 This project contains an automation testing framework developed for the [Demoblaze](https://www.demoblaze.com/) e-commerce demo website. It is built using **Java**, **Selenium WebDriver**, **TestNG**, **ExtentReports**, and **Apache POI**.
 
-> ✅ Developed as part of a Software Testing Task by Sejal Dubey and Kalyani Tewari.
+
 
 ---
 
