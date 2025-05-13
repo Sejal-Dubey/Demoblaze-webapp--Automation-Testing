@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Test Environment Setup Completed]]>
+    </line>
+    <line>
+      <![CDATA[Valid Signup Test Result: Sign up successful.]]>
+    </line>
+    <line>
+      <![CDATA[TC01 - Valid Signup Test Completed Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test Execution Completed]]>
+    </line>
+    <line>
+      <![CDATA[Test Environment Setup Completed]]>
+    </line>
+    <line>
+      <![CDATA[Valid Signup Test Result: Sign up successful.]]>
+    </line>
+    <line>
+      <![CDATA[Signup, Login, and Add to Cart Test Result: Product added successfully]]>
+    </line>
+    <line>
+      <![CDATA[TC02 - Signup, Login and Add to Cart Test Completed Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test Execution Completed]]>
+    </line>
+    <line>
+      <![CDATA[Test Environment Setup Completed]]>
+    </line>
+    <line>
+      <![CDATA[Duplicate Signup Test Result: User already exists verification successful]]>
+    </line>
+    <line>
+      <![CDATA[TC03 - Duplicate Signup Test Completed Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test Execution Completed]]>
+    </line>
+    <line>
+      <![CDATA[Test Environment Setup Completed]]>
+    </line>
+    <line>
+      <![CDATA[Valid Signup Test Result: Sign up successful.]]>
+    </line>
+    <line>
+      <![CDATA[Advanced Cart Management Test Result: Purchase completed successfully]]>
+    </line>
+    <line>
+      <![CDATA[TC04 - Advanced Cart Management Test Completed Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test Execution Completed]]>
+    </line>
+    <line>
+      <![CDATA[Test Environment Setup Completed]]>
+    </line>
+    <line>
+      <![CDATA[Valid Signup Test Result: Sign up successful.]]>
+    </line>
+    <line>
+      <![CDATA[Category Navigation and Contact Test Result: Message sent successfully]]>
+    </line>
+    <line>
+      <![CDATA[TC05 - Category Navigation and Contact Test Completed Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test Execution Completed]]>
+    </line>
+    <line>
+      <![CDATA[Test Environment Setup Completed]]>
+    </line>
+    <line>
+      <![CDATA[Valid Signup Test Result: Sign up successful.]]>
+    </line>
+    <line>
+      <![CDATA[Cross-Category Shopping Test Result: Product added to cart from category Phones]]>
+    </line>
+    <line>
+      <![CDATA[TC06 - Cross-Category Shopping Test Completed Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test Execution Completed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-04-24T12:52:39 IST" name="Default suite" finished-at="2025-04-24T12:54:50 IST" duration-ms="130846">
+    <groups>
+    </groups>
+    <test started-at="2025-04-24T12:52:39 IST" name="Default test" finished-at="2025-04-24T12:54:50 IST" duration-ms="130846">
+      <class name="MavenTestNGProject.MavenTestNGProject.PurchaseTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:MavenTestNGProject.MavenTestNGProject.PurchaseTest@909217e]" started-at="2025-04-24T12:52:40 IST" name="setUp" finished-at="2025-04-24T12:52:45 IST" duration-ms="4387" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Environment Setup Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testDemoblaze(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:MavenTestNGProject.MavenTestNGProject.PurchaseTest@909217e]" started-at="2025-04-24T12:52:45 IST" name="testDemoblaze" data-provider="Purchase" finished-at="2025-04-24T12:52:51 IST" duration-ms="6172" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC01]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ayushaa_100]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Test@123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Valid Signup Test Result: Sign up successful.]]>
+            </line>
+            <line>
+              <![CDATA[TC01 - Valid Signup Test Completed Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testDemoblaze -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MavenTestNGProject.MavenTestNGProject.PurchaseTest@909217e]" started-at="2025-04-24T12:52:51 IST" name="tearDown" finished-at="2025-04-24T12:52:52 IST" duration-ms="996" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Execution Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:MavenTestNGProject.MavenTestNGProject.PurchaseTest@909217e]" started-at="2025-04-24T12:52:52 IST" name="setUp" finished-at="2025-04-24T12:52:55 IST" duration-ms="2840" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Environment Setup Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testDemoblaze(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:MavenTestNGProject.MavenTestNGProject.PurchaseTest@909217e]" started-at="2025-04-24T12:52:55 IST" name="testDemoblaze" data-provider="Purchase" finished-at="2025-04-24T12:53:13 IST" duration-ms="18006" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC02]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ayushaa_101]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Test@123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Samsung galaxy s6]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Phones]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[360]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Valid Signup Test Result: Sign up successful.]]>
+            </line>
+            <line>
+              <![CDATA[Signup, Login, and Add to Cart Test Result: Product added successfully]]>
+            </line>
+            <line>
+              <![CDATA[TC02 - Signup, Login and Add to Cart Test Completed Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testDemoblaze -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MavenTestNGProject.MavenTestNGProject.PurchaseTest@909217e]" started-at="2025-04-24T12:53:13 IST" name="tearDown" finished-at="2025-04-24T12:53:13 IST" duration-ms="601" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Execution Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:MavenTestNGProject.MavenTestNGProject.PurchaseTest@909217e]" started-at="2025-04-24T12:53:13 IST" name="setUp" finished-at="2025-04-24T12:53:16 IST" duration-ms="2530" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Environment Setup Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testDemoblaze(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:MavenTestNGProject.MavenTestNGProject.PurchaseTest@909217e]" started-at="2025-04-24T12:53:16 IST" name="testDemoblaze" data-provider="Purchase" finished-at="2025-04-24T12:53:27 IST" duration-ms="11441" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC03]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ayushaa_102]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Test@123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Duplicate Signup Test Result: User already exists verification successful]]>
+            </line>
+            <line>
+              <![CDATA[TC03 - Duplicate Signup Test Completed Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testDemoblaze -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MavenTestNGProject.MavenTestNGProject.PurchaseTest@909217e]" started-at="2025-04-24T12:53:27 IST" name="tearDown" finished-at="2025-04-24T12:53:28 IST" duration-ms="994" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Execution Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:MavenTestNGProject.MavenTestNGProject.PurchaseTest@909217e]" started-at="2025-04-24T12:53:28 IST" name="setUp" finished-at="2025-04-24T12:53:31 IST" duration-ms="2553" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Environment Setup Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testDemoblaze(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:MavenTestNGProject.MavenTestNGProject.PurchaseTest@909217e]" started-at="2025-04-24T12:53:31 IST" name="testDemoblaze" data-provider="Purchase" finished-at="2025-04-24T12:54:00 IST" duration-ms="29187" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC04]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ayushaa_103]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Test@123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Samsung galaxy s6]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Neha Doe]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2147483647]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[USA]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[New York]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[2025]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Phones]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[1100]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Valid Signup Test Result: Sign up successful.]]>
+            </line>
+            <line>
+              <![CDATA[Advanced Cart Management Test Result: Purchase completed successfully]]>
+            </line>
+            <line>
+              <![CDATA[TC04 - Advanced Cart Management Test Completed Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testDemoblaze -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MavenTestNGProject.MavenTestNGProject.PurchaseTest@909217e]" started-at="2025-04-24T12:54:00 IST" name="tearDown" finished-at="2025-04-24T12:54:01 IST" duration-ms="584" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Execution Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:MavenTestNGProject.MavenTestNGProject.PurchaseTest@909217e]" started-at="2025-04-24T12:54:01 IST" name="setUp" finished-at="2025-04-24T12:54:03 IST" duration-ms="2609" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Environment Setup Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testDemoblaze(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:MavenTestNGProject.MavenTestNGProject.PurchaseTest@909217e]" started-at="2025-04-24T12:54:03 IST" name="testDemoblaze" data-provider="Purchase" finished-at="2025-04-24T12:54:22 IST" duration-ms="19113" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC05]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ayushaa_104]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Test@123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Samsung galaxy s7]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Laptop]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[360]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Great Product!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Valid Signup Test Result: Sign up successful.]]>
+            </line>
+            <line>
+              <![CDATA[Category Navigation and Contact Test Result: Message sent successfully]]>
+            </line>
+            <line>
+              <![CDATA[TC05 - Category Navigation and Contact Test Completed Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testDemoblaze -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MavenTestNGProject.MavenTestNGProject.PurchaseTest@909217e]" started-at="2025-04-24T12:54:22 IST" name="tearDown" finished-at="2025-04-24T12:54:23 IST" duration-ms="583" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Execution Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:MavenTestNGProject.MavenTestNGProject.PurchaseTest@909217e]" started-at="2025-04-24T12:54:23 IST" name="setUp" finished-at="2025-04-24T12:54:26 IST" duration-ms="2723" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Environment Setup Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testDemoblaze(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:MavenTestNGProject.MavenTestNGProject.PurchaseTest@909217e]" started-at="2025-04-24T12:54:26 IST" name="testDemoblaze" data-provider="Purchase" finished-at="2025-04-24T12:54:49 IST" duration-ms="23532" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC06]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ayushaa_105]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Test@123]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Samsung galaxy s6]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Phones]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[230]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[N/A]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Valid Signup Test Result: Sign up successful.]]>
+            </line>
+            <line>
+              <![CDATA[Cross-Category Shopping Test Result: Product added to cart from category Phones]]>
+            </line>
+            <line>
+              <![CDATA[TC06 - Cross-Category Shopping Test Completed Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testDemoblaze -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MavenTestNGProject.MavenTestNGProject.PurchaseTest@909217e]" started-at="2025-04-24T12:54:49 IST" name="tearDown" finished-at="2025-04-24T12:54:50 IST" duration-ms="512" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Execution Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- MavenTestNGProject.MavenTestNGProject.PurchaseTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
