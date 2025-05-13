@@ -56,13 +56,10 @@ Demoblaze-Automation-Testing/
 ## 🚦 Test Types Included
 
 - Functional Testing
-- UI Automation
-- End-to-End Workflows
 - Data-Driven Testing (Excel-based)
 
 ---
 
-## 🧪 How to Run
 
 ### 📌 Prerequisites
 
@@ -90,11 +87,10 @@ Demoblaze-Automation-Testing/
 
 ---
 
-## 📸 Sample Output
+## 📸 Test cases  
 
-- HTML report with test steps
-- Console logs via Log4j
-- Excel-based test data for parameterized testing
+
+![WhatsApp Image 2025-05-14 at 00 27 42_65724c0c](https://github.com/user-attachments/assets/02e45bde-542e-417d-bc34-b24cfaff1be8)
 
 ---
 
